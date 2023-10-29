@@ -1,0 +1,14 @@
+.navbar {
+  background-color: #1e1d1f;
+}
+
+.navbar .logo {
+  color: white;
+  text-decoration: none;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.navbar li a {
+  color: white;
+}

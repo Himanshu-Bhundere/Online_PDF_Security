@@ -1,0 +1,8 @@
+.book {
+  width: 200px;
+  min-height: 200px;
+  background-color: white;
+  color: black;
+  text-align: center;
+  margin: 5px;
+}

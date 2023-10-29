@@ -1,0 +1,19 @@
+{
+  "books": [
+    {
+      "isbn": 1,
+      "name": "David's AutoBiography",
+      "price": 1.2
+    },
+    {
+      "isbn": 34,
+      "name": "Nevil's AutoBiography",
+      "price": 1.7
+    },
+    {
+      "isbn": 67,
+      "name": "Rahul's AutoBiography",
+      "price": 1.1
+    }
+  ]
+}

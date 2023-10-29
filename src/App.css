@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #3d3a3d;
+}
+
+.App {
+}
+
+.App h1 {
+  text-align: center;
+}
+
+.pdf-viewer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: black;
+  margin: 20px;
+  background-color: white;
+}
+
+.pdf-viewer p {
+  color: black;
+}
+
+.document {
+  border: 1px solid black;
+  color: black;
+}
+
+.all-books {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 5px;
+  color: white;
+}
+
+.all-books button {
+  padding: 3px;
+}
+
+.books-all {
+  display: flex;
+}
